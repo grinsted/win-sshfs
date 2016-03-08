@@ -22,3 +22,12 @@ There are several changes, main differences:
 *   I use different versioning: 1.5.12.5 = version.subversion.release.build
 
 And probably others , see logs for details.
+
+
+Download 
+--------
+You can download the latest release here: 
+https://github.com/dimov-cz/win-sshfs/releases
+
+NOTE: win-sshfs 4every1 requires DOKAN. The recommended DOKAN version can be found here:
+https://github.com/Maxhy/dokany/releases
